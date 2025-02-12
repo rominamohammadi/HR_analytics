@@ -5,7 +5,7 @@ This project analyzes HR data to gain insights into employee performance, attrit
 🛠️ Tech Stack
 
     SQL, PostgresSQL Server – Data extraction and querying
-    Python (Pandas, NumPy, Seaborn, Matplotlib) – Data preprocessing and analysis
+    Python (Pandas, NumPy) – Data preprocessing and analysis
     Power BI – Dashboard creation and visualization
 
 📂 Dataset
@@ -37,7 +37,7 @@ The Power BI dashboard visualizes:
 
     git clone https://github.com/rominamohammadi/HR-analytics.git
 
-    Load the dataset into SQL Server
+    Load the dataset into PostgresSQL
     Run the SQL queries for insights
     Use the Python scripts for data preprocessing
     Open the Power BI dashboard to visualize insights
