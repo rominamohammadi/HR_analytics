@@ -18,6 +18,9 @@ The dataset includes HR-related attributes such as employee satisfaction, salari
     Removed duplicates
     Converted categorical columns to appropriate data types
     Outlier Removal: Age, MonthlyIncome, TotalWorkingYears, and YearsAtCompany
+![powerbiResult2](https://github.com/user-attachments/assets/75b8e974-e9cd-4367-aad7-f40eda888708)
+![powerBIResult](https://github.com/user-attachments/assets/09939601-a449-4ce7-bc6c-efc190d7d564)
+
 
 🔍 Key SQL Queries for Insights
 
